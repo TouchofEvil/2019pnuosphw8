@@ -1,8 +1,6 @@
-# 2019pnuosphw8
+# Open Source programming HW8
 
-Open Source programming HW8
-
-Notice 1.
+#Notice 1.
   For HW8, no template codes are provided.
   Students can implement the program from the scratch.
   It is alright to reuse codes from HW6 and HW7.
